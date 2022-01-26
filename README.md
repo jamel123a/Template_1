@@ -1,5 +1,5 @@
 # Template_1
-link : https://jamel123a.github.io/Template_1/
+link : https://template1-12.netlify.app/
 
 
 ![1](https://user-images.githubusercontent.com/95764822/148430009-b63bb8cf-079a-44ef-b57b-354fb7bf61a8.png)
